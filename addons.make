@@ -1,0 +1,6 @@
+ofxBiquadFilter
+ofxCv
+ofxFaceTracker2
+ofxImgWarp
+ofxOpenCv
+ofxXmlSettings
